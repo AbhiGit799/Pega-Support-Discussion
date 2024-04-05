@@ -64,6 +64,67 @@ Q29) https://support.pega.com/question/ootb-sections
 
 Q30) https://support.pega.com/question/run-script-action
 
+Q31) https://support.pega.com/question/index-operator-vs-data-admin-operator-id
+
+Q32) https://support.pega.com/question/guradrail-warning
+
+Q33) https://support.pega.com/question/delete-case-type-pega-version-87
+
+Q34) https://support.pega.com/question/input-pop-while-using-page-group
+
+Q35) https://support.pega.com/question/how-create-temporary-case-pega-version-87
+
+Q36) https://support.pega.com/question/pxpages-excel-download-data
+
+Q37) https://support.pega.com/question/report-definition-joins-0
+
+Q38) https://support.pega.com/question/difference-between-workbasket-vs-workgroup-vs-workqueue
+
+Q39) https://support.pega.com/question/creating-work-object
+
+Q40) https://support.pega.com/question/report-creation-non-optimized-property
+
+Q41) https://support.pega.com/question/report-not-displaying-report-browser-tab
+
+Q42) https://support.pega.com/question/product-rule-individual-instances-include
+
+Q43) https://support.pega.com/question/how-lock-and-unlock-data-instance-rule-pega
+
+Q44) https://support.pega.com/question/cpu-usage-pega-application
+
+Q45) https://support.pega.com/question/bulk-update-case-504-gateway-time-out
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
