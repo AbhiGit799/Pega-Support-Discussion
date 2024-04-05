@@ -94,6 +94,123 @@ Q44) https://support.pega.com/question/cpu-usage-pega-application
 
 Q45) https://support.pega.com/question/bulk-update-case-504-gateway-time-out
 
+Q46) https://support.pega.com/question/sending-report-excel-using-activity
+
+Q47) https://support.pega.com/question/error-obj-browse
+
+Q48) https://support.pega.com/question/property-set-html-method-activity
+
+Q49) https://support.pega.com/question/isbusinessday-pega-87
+
+Q50) https://support.pega.com/question/error-while-calling-generateid-ootb-activity
+
+Q51) https://support.pega.com/question/call-generateid
+
+Q52) https://support.pega.com/question/run-activity-row-add
+
+Q53) https://support.pega.com/question/case-get-open-while-run-activity-using-obj-browse-and-obj-open
+
+Q54) https://support.pega.com/question/failed-load-harness
+
+Q55) https://support.pega.com/question/guardrail-warning-using-commit
+
+Q56) https://support.pega.com/question/javalangindexoutofboundsexception-index-1-out-bounds-length-0
+
+Q57) https://support.pega.com/question/missing-stream-key-property-pystreamname
+
+Q58) https://support.pega.com/question/operation-requires-lock-object-it-can-proceed
+
+Q59) https://support.pega.com/question/pupose-locking-checking-inside-data-classes
+
+Q60) https://support.pega.com/question/lookup-savable-data-page
+
+Q61) https://support.pega.com/question/creating-custome-portal-pega-87-using-cosmos
+
+Q62) https://support.pega.com/question/button-inside-harness-not-working
+
+Q63) https://support.pega.com/question/uipages-pega-87-cosmos
+
+Q64) https://support.pega.com/question/how-download-multiple-documents-using-displayattachfile-activity
+
+Q65) https://support.pega.com/question/job-scheduler-admin-studio
+
+Q66) https://support.pega.com/question/job-scheduler-context
+
+Q67) https://support.pega.com/question/job-scheduler-runs-dropdown-option
+
+Q68) https://support.pega.com/question/perform-harness-issue-runtime
+
+Q69) https://support.pega.com/question/ui-kit-715-pega-version-883
+
+Q70) https://support.pega.com/question/editable-datapage-vs-savable-datapage
+
+Q71) https://support.pega.com/question/usage-history-classes-pega
+
+Q72) https://support.pega.com/question/backup-pega-application
+
+Q73) https://support.pega.com/question/pxpages
+
+Q74) https://support.pega.com/question/noid-issue-when-trying-edit-child-case
+
+Q75) https://support.pega.com/question/what-noid-harness-present-assign-class
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
