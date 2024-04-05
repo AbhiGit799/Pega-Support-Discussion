@@ -154,6 +154,54 @@ Q74) https://support.pega.com/question/noid-issue-when-trying-edit-child-case
 
 Q75) https://support.pega.com/question/what-noid-harness-present-assign-class
 
+Q76) https://support.pega.com/question/how-reopen-closed-child-case
+
+Q77) https://support.pega.com/question/difference-between-ootb-activities-used-reopen-parent-child-cases-workobjects
+
+Q78) https://support.pega.com/question/external-mapping-columnproperty-data-class
+
+Q79) https://support.pega.com/question/field-level-auditing-dev-studio
+
+Q80) https://support.pega.com/question/node-level-data-page
+
+Q81) https://support.pega.com/question/column-population-jobs-issue-pega-883
+
+Q82) https://support.pega.com/question/connector-rest-and-security
+
+Q83) https://support.pega.com/question/multiple-work-group
+
+Q84) https://support.pega.com/question/how-do-error-handling-job-schedulers
+
+Q85) https://support.pega.com/question/jumping-specific-process-stage
+
+Q86) https://support.pega.com/question/multiple-workqueue-workgroup
+
+Q87) https://support.pega.com/question/locking-parent-child-case
+
+Q88) https://support.pega.com/question/location-resolved-and-rejected-cases
+
+Q89) https://support.pega.com/question/child-case-not-showing-create-menu-user-portal
+
+Q90) https://support.pega.com/question/all-rule-deletion-particular-class
+
+Q91) https://support.pega.com/question/updating-data-child-case-whenever-parent-case-updated
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
