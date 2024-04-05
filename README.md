@@ -1,4 +1,4 @@
-# Pega-Support-Discussion
+# Pega-Support-Discussions
 
 Hi All,
 
@@ -186,52 +186,33 @@ Q90) https://support.pega.com/question/all-rule-deletion-particular-class
 
 Q91) https://support.pega.com/question/updating-data-child-case-whenever-parent-case-updated
 
+Q92) https://support.pega.com/question/generating-custom-case-id
 
+Q93) https://support.pega.com/question/service-rest-put-vs-post
 
+Q94) https://support.pega.com/question/how-test-performance-screen
 
+Q95) https://support.pega.com/question/migrating-10-records-higher-environment
 
+Q96) https://support.pega.com/question/obj-open-vs-obj-open-handle
 
+Q97) https://support.pega.com/question/callactivity-vs-pxexecuteactivity
 
+Q98) https://support.pega.com/question/activity-type-activity-and-activity-type-utility
 
+Q99) https://support.pega.com/question/how-call-2-rest-webservices-activity
 
+Q100) https://support.pega.com/question/work-pools-importance-and-why-it-required
 
+Q101) https://support.pega.com/question/what-pooid-connect-wait-method
 
+Q102) https://support.pega.com/question/difference-between-obj-save-vs-call-save
 
+Q103) https://support.pega.com/question/data-transform-append-and-append-and-map
 
+Q104) https://support.pega.com/question/best-practice-create-sections-data-or-work-class
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+Q105) https://support.pega.com/question/how-we-can-use-dss-while-configuring-connect-rest-get-method
 
 
 
