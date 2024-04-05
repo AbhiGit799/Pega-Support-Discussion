@@ -214,33 +214,35 @@ Q104) https://support.pega.com/question/best-practice-create-sections-data-or-wo
 
 Q105) https://support.pega.com/question/how-we-can-use-dss-while-configuring-connect-rest-get-method
 
+Q106) https://support.pega.com/question/bix-pega
 
+Q107) https://support.pega.com/question/what-benefits-using-queue-processor-over-standard-agent
 
+Q108) https://support.pega.com/question/difference-between-job-scheduler-and-queueprocessor
 
+Q109) https://support.pega.com/question/pega-group-append-and-append-and-map
 
+Q110) https://support.pega.com/question/default-maximum-number-rows-retrieve-report
 
+Q111) https://support.pega.com/question/savable-data-page-issue-key-required
 
+Q112) https://support.pega.com/question/can-we-use-savable-data-page-save-multiple-records
 
+Q113) https://support.pega.com/question/how-trace-report
 
+Q114) https://support.pega.com/question/editable-data-page-table-source
 
+Q115) https://support.pega.com/question/list-ootb-activities-create-workobjects
 
+Q116) https://support.pega.com/question/error-scalar-value
 
+Q117) https://support.pega.com/question/repair-workobject-within-flow
 
+Q118) https://support.pega.com/question/creating-case-using-webservice
 
+Q119) https://support.pega.com/question/error-pyflowtypefailed-find-rule-obj-flow
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+Q120) https://support.pega.com/question/best-practiceapproach-perform-crud-operation-gridtable
 
 
 
